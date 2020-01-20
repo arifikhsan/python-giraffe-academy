@@ -1,6 +1,6 @@
 def cube(edge):
     return edge ** 3
-    print('never')
+    # print('never') #! uncreachable line
 
 print(cube(3))
 print(cube(4))
